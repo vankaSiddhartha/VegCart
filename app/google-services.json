@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163815431796",
+    "project_id": "vegcart-c353d",
+    "storage_bucket": "vegcart-c353d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163815431796:android:c95b1f69939cc710873b21",
+        "android_client_info": {
+          "package_name": "com.vanka.vegcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163815431796-c0hssenk2id83dqdtkmjaav5g0c2kru8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaX0lkm2rYKlrYGkCic8-RChCtC0QPMVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163815431796-c0hssenk2id83dqdtkmjaav5g0c2kru8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
